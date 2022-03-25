@@ -22,9 +22,9 @@ Git :left_right_arrow: GitHub y MarkDown
 * https://es.wikipedia.org/wiki/Markdown
 * https://markdown.es/
 * https://www.webfx.com/tools/emoji-cheat-sheet/
-### Manos a la Obra: :construction_worker:
 * https://guides.github.com/features/mastering-markdown/
-* https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown
+### Manos a la Obra: :construction_worker:
+* https://lab.github.com/githubtraining/communicating-using-markdown
 <!---
 
 ![meme](ojotranslate.jpeg)
