@@ -1,5 +1,6 @@
 # TP1 de Seminario de informática y telecomunicaciones
 Git :left_right_arrow: GitHub y MarkDown
+
 ![pio Logo](logopio.jpg)
 
 ## 1.intros: :mag:
