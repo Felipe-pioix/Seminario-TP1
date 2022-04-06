@@ -26,12 +26,15 @@ Git :left_right_arrow: GitHub y MarkDown
 * https://guides.github.com/features/mastering-markdown/
 ### Manos a la Obra: :construction_worker:
 * https://lab.github.com/githubtraining/communicating-using-markdown
+
+## 3.Primer repo propio para entregas::mailbox_with_no_mail:
+* 5to "A" https://classroom.github.com/a/zp2GZBOW
+
 <!---
 
 ![meme](ojotranslate.jpeg)
 
-## 3.Primer repo propio para entregas::mailbox_with_no_mail:
-* 5to "A" https://classroom.github.com/g/i2YnEJtq 
+
 * 5to "B" https://classroom.github.com/g/qRZ-f1_2
 
 hace click en el link (cada alumno) para aceptar el primer tp, la primera vez van a tener que crear el grupo (llamarlo grupo N°##), segun el numero de grupo de proyecto, luego cuando entren los 3 alumnos restantes se tienen que unir al mismo grupo. al finalizar se habra creado un repositorio para el grupo, con una copia de [este repositorio](https://github.com/fegerva2/TP1)  y los 4 alumnos seran colaboradores del mismo
