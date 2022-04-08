@@ -29,7 +29,7 @@ Git :left_right_arrow: GitHub y MarkDown
 
 ## 3.Primer repo propio para entregas::mailbox_with_no_mail:
 * 5to "A" https://classroom.github.com/a/zp2GZBOW
-* Tto "B" https://classroom.github.com/a/d8JyopWz
+* 5to "B" https://classroom.github.com/a/d8JyopWz
 
 <!---
 
