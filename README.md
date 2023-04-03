@@ -15,8 +15,8 @@ Git :left_right_arrow: GitHub y MarkDown
 
 ### Manos a la Obra: :construction_worker:
 * https://guides.github.com/activities/hello-world/
-* https://lab.github.com/githubtraining/introduction-to-github
-* https://lab.github.com/githubtraining/managing-merge-conflicts
+* https://github.com/skills/introduction-to-github
+* https://github.com/skills/resolve-merge-conflicts
 
 ## 2.Markdown::page_facing_up:
 ### leer: :eyes:
