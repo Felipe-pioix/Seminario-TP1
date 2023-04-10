@@ -27,6 +27,7 @@ Git :left_right_arrow: GitHub y MarkDown
 ### Manos a la Obra: :construction_worker:
 * https://github.com/skills/communicate-using-markdown)
 
+## OJO con las Auto-Traducciones
 
 ![meme](ojotranslate.jpeg)
 
