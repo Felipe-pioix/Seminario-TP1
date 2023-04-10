@@ -25,10 +25,7 @@ Git :left_right_arrow: GitHub y MarkDown
 * https://www.webfx.com/tools/emoji-cheat-sheet/
 * https://guides.github.com/features/mastering-markdown/
 ### Manos a la Obra: :construction_worker:
-* https://lab.github.com/githubtraining/communicating-using-markdown
-
-<!---
-
+* https://github.com/skills/communicate-using-markdown)
 ![meme](ojotranslate.jpeg)
 
 
