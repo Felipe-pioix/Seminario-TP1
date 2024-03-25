@@ -18,7 +18,7 @@ Git :left_right_arrow: GitHub y MarkDown
 * https://github.com/skills/introduction-to-github
 * https://github.com/skills/resolve-merge-conflicts
 
-## 2.Markdown::page_facing_up:
+## 2.Markdown: :page_facing_up:
 ### leer: :eyes:
 * https://es.wikipedia.org/wiki/Markdown
 * https://markdown.es/
@@ -26,6 +26,11 @@ Git :left_right_arrow: GitHub y MarkDown
 * https://guides.github.com/features/mastering-markdown/
 ### Manos a la Obra: :construction_worker:
 * https://github.com/skills/communicate-using-markdown
+
+## 3.aplicando todo esto: :octocat:
+
+### Manos a la Obra: :construction_worker:
+https://classroom.github.com/a/-6-uDrTa
 
 ## OJO con las Auto-Traducciones
 
